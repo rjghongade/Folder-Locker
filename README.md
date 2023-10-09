@@ -62,5 +62,11 @@ Key features of a typical folder locker application include:
 
 Folder locker applications are commonly used for personal and professional reasons. They can secure personal files, confidential work-related documents, and more. However, it's important to choose a reputable and trustworthy folder locker to ensure the security of your data. Always keep backups of important information and remember your passwords to prevent accidental data loss.
 
+[Folder_Locker](https://github.com/rjghongade/Folder-Locker.git)
+
+### Social Media
+
+[Linkdin](https://www.linkedin.com/in/rajendra-ghongade-07b337259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
    
 
