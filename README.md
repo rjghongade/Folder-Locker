@@ -32,7 +32,7 @@ To get started with Folder Locker, you need to clone the repository and build th
 
 2. Build and run the application.
 
- **  Usage**
+### Usage
 1. Launch the application.
 2. Log in with your credentials.
 3. Select a folder to lock.
