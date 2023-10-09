@@ -26,5 +26,5 @@ To get started with Folder Locker, you need to clone the repository and build th
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/rjghongade/folder-locker.git
+   git clone https://github.com/rjghongade/Folder-Locker.git
 
