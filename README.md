@@ -28,3 +28,15 @@ To get started with Folder Locker, you need to clone the repository and build th
    ```shell
    git clone https://github.com/rjghongade/Folder-Locker.git
 
+1. Open the project in Visual Studio.
+
+2. Build and run the application.
+
+ **  Usage**
+1. Launch the application.
+2. Log in with your credentials.
+3. Select a folder to lock.
+4. Lock the folder by clicking the "Lock Folder" button.
+5.To unlock a folder, use the "Unlock Folder" button and enter the correct password.
+   
+
