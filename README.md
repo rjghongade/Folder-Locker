@@ -42,5 +42,25 @@ To get started with Folder Locker, you need to clone the repository and build th
 ### Contributing
 Contributions are welcome. Please submit bug reports or feature requests through the GitHub issue tracker.
 
+A "Folder Locker" is a software application designed to secure and protect specific folders on a computer or storage device. It offers users a way to restrict access to sensitive or private data stored in these folders, ensuring that only authorized individuals can view, modify, or delete the contents.
+
+Key features of a typical folder locker application include:
+
+1. Folder Locking: Users can select folders they want to secure, and the application employs encryption or access control mechanisms to prevent unauthorized access.
+
+2. Password Protection: Folders are typically protected with a password, PIN, or passphrase. Access is granted only to those who know the correct combination.
+
+3. Security Levels: Some folder lockers offer different levels of security, including basic password protection, advanced encryption, and hiding folders from view.
+
+4. Ease of Use: Many folder locker applications have user-friendly interfaces that make it easy to lock and unlock folders.
+
+5. File Recovery: In case users forget their passwords or need to recover locked data, some folder lockers provide recovery options.
+
+6. Privacy: Folder lockers are often used to protect personal, financial, or confidential data, helping users maintain their privacy and safeguard sensitive information.
+
+7. Customization: Users can typically customize the level of security and access settings for each locked folder.
+
+Folder locker applications are commonly used for personal and professional reasons. They can secure personal files, confidential work-related documents, and more. However, it's important to choose a reputable and trustworthy folder locker to ensure the security of your data. Always keep backups of important information and remember your passwords to prevent accidental data loss.
+
    
 
