@@ -37,6 +37,10 @@ To get started with Folder Locker, you need to clone the repository and build th
 2. Log in with your credentials.
 3. Select a folder to lock.
 4. Lock the folder by clicking the "Lock Folder" button.
-5.To unlock a folder, use the "Unlock Folder" button and enter the correct password.
+5. To unlock a folder, use the "Unlock Folder" button and enter the correct password.
+
+### Contributing
+Contributions are welcome. Please submit bug reports or feature requests through the GitHub issue tracker.
+
    
 
