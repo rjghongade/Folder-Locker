@@ -78,7 +78,7 @@ Folder locker applications are commonly used for personal and professional reaso
 ### Work On Ram Antivirus Jalgaon, Maharastra.
 [Ram_Antivirus](https://ramantivirus.com/)
 
-![screenshort_2](65d9f7668ee281.43205652.png)
+
 
 
    
